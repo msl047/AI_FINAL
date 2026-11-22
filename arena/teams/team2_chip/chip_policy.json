@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "minutes": 55.0,
+    "trials": 4,
+    "horizon": 60,
+    "per_match": 16,
+    "seed": 0,
+    "games": 20,
+    "eval_seed": 6000
+  },
+  "buckets": {
+    "False:False:False:False": {
+      "positions": 1190,
+      "pairs": 4760,
+      "script_value": 0.6014705882352941,
+      "chip_value": 0.642436974789916,
+      "use_chip": true
+    },
+    "False:False:False:True": {
+      "positions": 1670,
+      "pairs": 6680,
+      "script_value": 0.4347305389221557,
+      "chip_value": 0.5483532934131736,
+      "use_chip": true
+    },
+    "True:False:False:False": {
+      "positions": 123,
+      "pairs": 492,
+      "script_value": 0.02032520325203252,
+      "chip_value": 0.06504065040650407,
+      "use_chip": true
+    },
+    "True:False:False:True": {
+      "positions": 1463,
+      "pairs": 5852,
+      "script_value": 0.25239234449760767,
+      "chip_value": 0.32484620642515377,
+      "use_chip": true
+    }
+  }
+}

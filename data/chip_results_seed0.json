@@ -1,0 +1,1496 @@
+[
+  {
+    "team": "team2",
+    "opponent": "baselines.learned",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 2,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 1,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 0,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 0,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 0,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 1,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 0,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 2,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 1,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 0,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 0,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 2,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 0,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "fixed_chip",
+    "opponent": "baselines.learned",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 1,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 5,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 4,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 3,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 1,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 3,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 2,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 1,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "learned_chip",
+    "opponent": "baselines.learned",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 1,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 5,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 4,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 3,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 1,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 1,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 3,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 2,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 2,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 1,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 0,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "team2",
+    "opponent": "baselines.scripted_box",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 6,
+        "ga": 13,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 8,
+        "ga": 9,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 11,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 8,
+        "ga": 11,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 11,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 10,
+        "ga": 10,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 8,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 4,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 8,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 9,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 5,
+        "ga": 9,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 10,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 8,
+        "ga": 11,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 8,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 11,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 4,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 8,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 7,
+        "ga": 9,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 6,
+        "ga": 10,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 5,
+        "ga": 9,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "fixed_chip",
+    "opponent": "baselines.scripted_box",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 8,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 12,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 8,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 10,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 10,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 11,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 11,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 12,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 13,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 13,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 9,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 10,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 12,
+        "ga": 11,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 8,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 11,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 8,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 9,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 12,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 6,
+        "ga": 10,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 7,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "learned_chip",
+    "opponent": "baselines.scripted_box",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 8,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 12,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 8,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 10,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 10,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 11,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 11,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 12,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 13,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 13,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 9,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 10,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 12,
+        "ga": 11,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 8,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 11,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 8,
+        "ga": 8,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 9,
+        "ga": 7,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 12,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 6,
+        "ga": 10,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 7,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "team2",
+    "opponent": "baselines.scripted",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 7,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 8,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 9,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 5,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 6,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 7,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 7,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 4,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 8,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 5,
+        "ga": 5,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 11,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 8,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 10,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 9,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 4,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "fixed_chip",
+    "opponent": "baselines.scripted",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 9,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 7,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 7,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 12,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 9,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 11,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 10,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 9,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 8,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 9,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 7,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 10,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  },
+  {
+    "team": "learned_chip",
+    "opponent": "baselines.scripted",
+    "games": [
+      {
+        "seed": 6000,
+        "side": "red",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6000,
+        "side": "blue",
+        "gf": 9,
+        "ga": 1,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "red",
+        "gf": 7,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6001,
+        "side": "blue",
+        "gf": 7,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "red",
+        "gf": 12,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6002,
+        "side": "blue",
+        "gf": 9,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "red",
+        "gf": 11,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6003,
+        "side": "blue",
+        "gf": 10,
+        "ga": 0,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "red",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6004,
+        "side": "blue",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "red",
+        "gf": 9,
+        "ga": 6,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6005,
+        "side": "blue",
+        "gf": 6,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "red",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6006,
+        "side": "blue",
+        "gf": 8,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "red",
+        "gf": 9,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6007,
+        "side": "blue",
+        "gf": 7,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "red",
+        "gf": 10,
+        "ga": 4,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6008,
+        "side": "blue",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "red",
+        "gf": 8,
+        "ga": 3,
+        "strikes": 0,
+        "forfeit": null
+      },
+      {
+        "seed": 6009,
+        "side": "blue",
+        "gf": 10,
+        "ga": 2,
+        "strikes": 0,
+        "forfeit": null
+      }
+    ]
+  }
+]
