@@ -1,0 +1,6 @@
+{
+  "hours": 8,
+  "trials": 2,
+  "eval_seeds": 20,
+  "smoke_test": true
+}

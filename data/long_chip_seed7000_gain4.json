@@ -1,0 +1,709 @@
+{
+  "settings": {
+    "games": 20,
+    "seed": 7000,
+    "long_gain": 4,
+    "opponents": [
+      "baselines.learned",
+      "baselines.scripted_box"
+    ]
+  },
+  "results": [
+    {
+      "variant": "fixed_chip",
+      "opponent": "baselines.learned",
+      "wins": 8,
+      "draws": 8,
+      "losses": 4,
+      "gf": 27,
+      "ga": 16,
+      "short_chips": 14,
+      "long_chips": 106,
+      "short_candidates_filtered": 0,
+      "games": [
+        {
+          "seed": 7000,
+          "side": "red",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7000,
+          "side": "blue",
+          "gf": 1,
+          "ga": 2,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "red",
+          "gf": 2,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "blue",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "red",
+          "gf": 1,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "blue",
+          "gf": 0,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "red",
+          "gf": 2,
+          "ga": 2,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "blue",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "red",
+          "gf": 1,
+          "ga": 2,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "red",
+          "gf": 1,
+          "ga": 3,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "blue",
+          "gf": 1,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "red",
+          "gf": 2,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "blue",
+          "gf": 3,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "red",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "blue",
+          "gf": 3,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "red",
+          "gf": 2,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "blue",
+          "gf": 3,
+          "ga": 3,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "red",
+          "gf": 3,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        }
+      ]
+    },
+    {
+      "variant": "long_only",
+      "opponent": "baselines.learned",
+      "wins": 10,
+      "draws": 8,
+      "losses": 2,
+      "gf": 22,
+      "ga": 9,
+      "short_chips": 0,
+      "long_chips": 114,
+      "short_candidates_filtered": 25,
+      "games": [
+        {
+          "seed": 7000,
+          "side": "red",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7000,
+          "side": "blue",
+          "gf": 1,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "red",
+          "gf": 2,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "blue",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "red",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "blue",
+          "gf": 0,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "red",
+          "gf": 4,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "blue",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "red",
+          "gf": 1,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "red",
+          "gf": 1,
+          "ga": 3,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "blue",
+          "gf": 1,
+          "ga": 1,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "red",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "red",
+          "gf": 0,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "red",
+          "gf": 2,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "blue",
+          "gf": 2,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "red",
+          "gf": 3,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "blue",
+          "gf": 1,
+          "ga": 0,
+          "strikes": 0,
+          "forfeit": null
+        }
+      ]
+    },
+    {
+      "variant": "fixed_chip",
+      "opponent": "baselines.scripted_box",
+      "wins": 17,
+      "draws": 2,
+      "losses": 1,
+      "gf": 197,
+      "ga": 127,
+      "short_chips": 145,
+      "long_chips": 117,
+      "short_candidates_filtered": 0,
+      "games": [
+        {
+          "seed": 7000,
+          "side": "red",
+          "gf": 11,
+          "ga": 10,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7000,
+          "side": "blue",
+          "gf": 8,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "red",
+          "gf": 15,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "blue",
+          "gf": 9,
+          "ga": 8,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "red",
+          "gf": 12,
+          "ga": 8,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "blue",
+          "gf": 8,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "red",
+          "gf": 10,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "blue",
+          "gf": 8,
+          "ga": 8,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "red",
+          "gf": 11,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "blue",
+          "gf": 7,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "red",
+          "gf": 11,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "blue",
+          "gf": 10,
+          "ga": 8,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "red",
+          "gf": 6,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "blue",
+          "gf": 10,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "red",
+          "gf": 9,
+          "ga": 9,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "blue",
+          "gf": 10,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "red",
+          "gf": 12,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "blue",
+          "gf": 9,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "red",
+          "gf": 12,
+          "ga": 6,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "blue",
+          "gf": 9,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        }
+      ]
+    },
+    {
+      "variant": "long_only",
+      "opponent": "baselines.scripted_box",
+      "wins": 18,
+      "draws": 0,
+      "losses": 2,
+      "gf": 179,
+      "ga": 122,
+      "short_chips": 0,
+      "long_chips": 114,
+      "short_candidates_filtered": 311,
+      "games": [
+        {
+          "seed": 7000,
+          "side": "red",
+          "gf": 9,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7000,
+          "side": "blue",
+          "gf": 9,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "red",
+          "gf": 8,
+          "ga": 10,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7001,
+          "side": "blue",
+          "gf": 9,
+          "ga": 6,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "red",
+          "gf": 5,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7002,
+          "side": "blue",
+          "gf": 9,
+          "ga": 6,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "red",
+          "gf": 11,
+          "ga": 8,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7003,
+          "side": "blue",
+          "gf": 8,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "red",
+          "gf": 8,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7004,
+          "side": "blue",
+          "gf": 8,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "red",
+          "gf": 10,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7005,
+          "side": "blue",
+          "gf": 8,
+          "ga": 6,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "red",
+          "gf": 10,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7006,
+          "side": "blue",
+          "gf": 12,
+          "ga": 3,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "red",
+          "gf": 13,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7007,
+          "side": "blue",
+          "gf": 7,
+          "ga": 4,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "red",
+          "gf": 10,
+          "ga": 6,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7008,
+          "side": "blue",
+          "gf": 11,
+          "ga": 7,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "red",
+          "gf": 6,
+          "ga": 5,
+          "strikes": 0,
+          "forfeit": null
+        },
+        {
+          "seed": 7009,
+          "side": "blue",
+          "gf": 8,
+          "ga": 10,
+          "strikes": 0,
+          "forfeit": null
+        }
+      ]
+    }
+  ]
+}

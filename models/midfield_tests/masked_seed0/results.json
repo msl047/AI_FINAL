@@ -1,0 +1,238 @@
+{
+  "settings": {
+    "variant": "masked",
+    "steps": [
+      16384,
+      65536,
+      131072
+    ],
+    "seed": 0,
+    "games": 20,
+    "eval_seed": 1000
+  },
+  "matches": [
+    {
+      "checkpoint": "current_team2",
+      "opponent": "teams.team1",
+      "W": 9,
+      "D": 1,
+      "L": 10,
+      "GF": 162,
+      "GA": 173,
+      "games": 20,
+      "events": {
+        "pickup": 23,
+        "tackle": 1086,
+        "tackle_failed": 1053,
+        "kick": 343,
+        "goal": 335,
+        "kickoff": 335,
+        "intercept": 5
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "teams.team2",
+      "blue": "teams.team1"
+    },
+    {
+      "checkpoint": "current_team2",
+      "opponent": "baselines.scripted_box",
+      "W": 7,
+      "D": 5,
+      "L": 8,
+      "GF": 160,
+      "GA": 160,
+      "games": 20,
+      "events": {
+        "pickup": 21,
+        "tackle": 1109,
+        "tackle_failed": 1064,
+        "kick": 332,
+        "goal": 320,
+        "kickoff": 320,
+        "intercept": 9
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "teams.team2",
+      "blue": "baselines.scripted_box"
+    },
+    {
+      "checkpoint": 16384,
+      "opponent": "teams.team1",
+      "W": 7,
+      "D": 0,
+      "L": 13,
+      "GF": 136,
+      "GA": 154,
+      "games": 20,
+      "events": {
+        "pickup": 21,
+        "tackle": 1148,
+        "tackle_failed": 1075,
+        "kick": 294,
+        "goal": 290,
+        "kickoff": 290,
+        "intercept": 3
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "teams.team1",
+      "decisions": 5437,
+      "overrides": 1040
+    },
+    {
+      "checkpoint": 16384,
+      "opponent": "baselines.scripted_box",
+      "W": 7,
+      "D": 1,
+      "L": 12,
+      "GF": 130,
+      "GA": 147,
+      "games": 20,
+      "events": {
+        "pickup": 24,
+        "tackle": 1118,
+        "tackle_failed": 1057,
+        "kick": 288,
+        "goal": 277,
+        "kickoff": 277,
+        "intercept": 6,
+        "bounce": 5
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "baselines.scripted_box",
+      "decisions": 5278,
+      "overrides": 1004
+    },
+    {
+      "checkpoint": 65536,
+      "opponent": "teams.team1",
+      "W": 10,
+      "D": 2,
+      "L": 8,
+      "GF": 184,
+      "GA": 165,
+      "games": 20,
+      "events": {
+        "pickup": 24,
+        "tackle": 1034,
+        "tackle_failed": 1040,
+        "kick": 357,
+        "goal": 349,
+        "kickoff": 349,
+        "intercept": 4
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "teams.team1",
+      "decisions": 5008,
+      "overrides": 231
+    },
+    {
+      "checkpoint": 65536,
+      "opponent": "baselines.scripted_box",
+      "W": 11,
+      "D": 3,
+      "L": 6,
+      "GF": 177,
+      "GA": 149,
+      "games": 20,
+      "events": {
+        "pickup": 24,
+        "tackle": 1080,
+        "tackle_failed": 1093,
+        "kick": 335,
+        "goal": 326,
+        "kickoff": 326,
+        "intercept": 5,
+        "bounce": 1
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "baselines.scripted_box",
+      "decisions": 4905,
+      "overrides": 221
+    },
+    {
+      "checkpoint": 131072,
+      "opponent": "teams.team1",
+      "W": 11,
+      "D": 1,
+      "L": 8,
+      "GF": 189,
+      "GA": 164,
+      "games": 20,
+      "events": {
+        "pickup": 24,
+        "tackle": 1038,
+        "tackle_failed": 1045,
+        "kick": 361,
+        "goal": 353,
+        "kickoff": 353,
+        "intercept": 4
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "teams.team1",
+      "decisions": 5025,
+      "overrides": 236
+    },
+    {
+      "checkpoint": 131072,
+      "opponent": "baselines.scripted_box",
+      "W": 11,
+      "D": 3,
+      "L": 6,
+      "GF": 180,
+      "GA": 148,
+      "games": 20,
+      "events": {
+        "pickup": 24,
+        "tackle": 1083,
+        "tackle_failed": 1093,
+        "kick": 337,
+        "goal": 328,
+        "kickoff": 328,
+        "intercept": 5,
+        "bounce": 1
+      },
+      "strikes": {
+        "red": 0,
+        "blue": 0
+      },
+      "forfeits": [],
+      "red": "team2_midfield_experiment",
+      "blue": "baselines.scripted_box",
+      "decisions": 4923,
+      "overrides": 225
+    }
+  ]
+}
