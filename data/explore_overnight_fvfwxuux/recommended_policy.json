@@ -1,0 +1,14 @@
+{
+  "genome": [
+    "wide_south/y_first",
+    "race/y_first",
+    "carry/script",
+    "chip_north"
+  ],
+  "tactics": {
+    "deep_pressure": "wide_south/y_first",
+    "midfield_pressure": "race/y_first",
+    "early_release": "carry/script",
+    "restart": "chip_north"
+  }
+}
