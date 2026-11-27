@@ -1,0 +1,678 @@
+[
+  {
+    "press": {
+      "overall": {
+        "games": 64,
+        "points": 97,
+        "wdl": [
+          31,
+          4,
+          29
+        ],
+        "gf": 509,
+        "ga": 462,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 14.1,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 22,
+          "wdl": [
+            7,
+            1,
+            8
+          ],
+          "gf": 134,
+          "ga": 119,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 14.1,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 21,
+          "wdl": [
+            7,
+            0,
+            9
+          ],
+          "gf": 135,
+          "ga": 129,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.7,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            7
+          ],
+          "gf": 135,
+          "ga": 127,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.9,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 27,
+          "wdl": [
+            8,
+            3,
+            5
+          ],
+          "gf": 105,
+          "ga": 87,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.0,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_attack": {
+      "overall": {
+        "games": 64,
+        "points": 88,
+        "wdl": [
+          27,
+          7,
+          30
+        ],
+        "gf": 416,
+        "ga": 408,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 5.1,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 21,
+          "wdl": [
+            7,
+            0,
+            9
+          ],
+          "gf": 118,
+          "ga": 117,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.9,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 35,
+          "wdl": [
+            11,
+            2,
+            3
+          ],
+          "gf": 134,
+          "ga": 99,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.0,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 22,
+          "wdl": [
+            7,
+            1,
+            8
+          ],
+          "gf": 110,
+          "ga": 108,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.8,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 10,
+          "wdl": [
+            2,
+            4,
+            10
+          ],
+          "gf": 54,
+          "ga": 84,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.1,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_press": {
+      "overall": {
+        "games": 64,
+        "points": 55,
+        "wdl": [
+          17,
+          4,
+          43
+        ],
+        "gf": 411,
+        "ga": 541,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 6.7,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 6,
+          "wdl": [
+            2,
+            0,
+            14
+          ],
+          "gf": 93,
+          "ga": 157,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.7,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 14,
+          "wdl": [
+            4,
+            2,
+            10
+          ],
+          "gf": 109,
+          "ga": 150,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 8,
+          "wdl": [
+            2,
+            2,
+            12
+          ],
+          "gf": 101,
+          "ga": 151,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            7
+          ],
+          "gf": 108,
+          "ga": 83,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.0,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_recover": {
+      "overall": {
+        "games": 64,
+        "points": 109,
+        "wdl": [
+          35,
+          4,
+          25
+        ],
+        "gf": 513,
+        "ga": 453,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 5.9,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 34,
+          "wdl": [
+            11,
+            1,
+            4
+          ],
+          "gf": 137,
+          "ga": 117,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            7
+          ],
+          "gf": 141,
+          "ga": 124,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.6,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 25,
+          "wdl": [
+            8,
+            1,
+            7
+          ],
+          "gf": 134,
+          "ga": 124,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.7,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 23,
+          "wdl": [
+            7,
+            2,
+            7
+          ],
+          "gf": 101,
+          "ga": 88,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.9,
+          "changes": {}
+        }
+      }
+    }
+  },
+  {
+    "press": {
+      "overall": {
+        "games": 64,
+        "points": 90,
+        "wdl": [
+          28,
+          6,
+          30
+        ],
+        "gf": 517,
+        "ga": 538,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 6.5,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 28,
+          "wdl": [
+            9,
+            1,
+            6
+          ],
+          "gf": 145,
+          "ga": 137,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.5,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 28,
+          "wdl": [
+            9,
+            1,
+            6
+          ],
+          "gf": 148,
+          "ga": 138,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 13,
+          "wdl": [
+            4,
+            1,
+            11
+          ],
+          "gf": 115,
+          "ga": 150,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.7,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 21,
+          "wdl": [
+            6,
+            3,
+            7
+          ],
+          "gf": 109,
+          "ga": 113,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.5,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_attack": {
+      "overall": {
+        "games": 64,
+        "points": 103,
+        "wdl": [
+          32,
+          7,
+          25
+        ],
+        "gf": 442,
+        "ga": 424,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 5.0,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 30,
+          "wdl": [
+            10,
+            0,
+            6
+          ],
+          "gf": 125,
+          "ga": 112,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.8,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 23,
+          "wdl": [
+            7,
+            2,
+            7
+          ],
+          "gf": 125,
+          "ga": 124,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.7,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 37,
+          "wdl": [
+            12,
+            1,
+            3
+          ],
+          "gf": 131,
+          "ga": 104,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.7,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 13,
+          "wdl": [
+            3,
+            4,
+            9
+          ],
+          "gf": 61,
+          "ga": 84,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.0,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_press": {
+      "overall": {
+        "games": 64,
+        "points": 66,
+        "wdl": [
+          20,
+          6,
+          38
+        ],
+        "gf": 421,
+        "ga": 508,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 5.9,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 19,
+          "wdl": [
+            6,
+            1,
+            9
+          ],
+          "gf": 115,
+          "ga": 138,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.9,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 8,
+          "wdl": [
+            2,
+            2,
+            12
+          ],
+          "gf": 111,
+          "ga": 138,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 3,
+          "wdl": [
+            0,
+            3,
+            13
+          ],
+          "gf": 94,
+          "ga": 155,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.9,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 36,
+          "wdl": [
+            12,
+            0,
+            4
+          ],
+          "gf": 101,
+          "ga": 77,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        }
+      }
+    },
+    "press_no_recover": {
+      "overall": {
+        "games": 64,
+        "points": 82,
+        "wdl": [
+          25,
+          7,
+          32
+        ],
+        "gf": 511,
+        "ga": 523,
+        "strikes": 0,
+        "forfeits": 0,
+        "scenario_score": 0.0,
+        "slowest_ms": 6.5,
+        "changes": {}
+      },
+      "opponents": {
+        "box": {
+          "games": 16,
+          "points": 25,
+          "wdl": [
+            8,
+            1,
+            7
+          ],
+          "gf": 146,
+          "ga": 137,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 6.5,
+          "changes": {}
+        },
+        "fine": {
+          "games": 16,
+          "points": 20,
+          "wdl": [
+            6,
+            2,
+            8
+          ],
+          "gf": 141,
+          "ga": 142,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.9,
+          "changes": {}
+        },
+        "wide_two_field": {
+          "games": 16,
+          "points": 16,
+          "wdl": [
+            5,
+            1,
+            10
+          ],
+          "gf": 120,
+          "ga": 134,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.6,
+          "changes": {}
+        },
+        "teamplay": {
+          "games": 16,
+          "points": 21,
+          "wdl": [
+            6,
+            3,
+            7
+          ],
+          "gf": 104,
+          "ga": 110,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.8,
+          "changes": {}
+        }
+      }
+    }
+  }
+]

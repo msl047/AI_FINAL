@@ -1,0 +1,30 @@
+{
+  "genome": [
+    "current",
+    3,
+    3,
+    2,
+    "nearest",
+    5,
+    4,
+    "balanced",
+    -1,
+    2,
+    "carry",
+    "north"
+  ],
+  "tactics": {
+    "passing": "current",
+    "spacing": 3,
+    "pass_pressure": 3,
+    "min_pass_margin": 2,
+    "defense": "nearest",
+    "cover_depth": 5,
+    "press_bonus": 4,
+    "clearance": "balanced",
+    "clear_margin": -1,
+    "clear_gain": 2,
+    "restart": "carry",
+    "first_move": "north"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "p00000": {
+    "baselines.learned": {
+      "games": 2,
+      "points": 3,
+      "gf": 3,
+      "ga": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "strikes": 0,
+      "forfeits": 0,
+      "chips": 18,
+      "wide": 0
+    },
+    "baselines.scripted_box": {
+      "games": 2,
+      "points": 3,
+      "gf": 20,
+      "ga": 16,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "strikes": 0,
+      "forfeits": 0,
+      "chips": 28,
+      "wide": 4
+    }
+  },
+  "p00001": {
+    "baselines.learned": {
+      "games": 2,
+      "points": 2,
+      "gf": 0,
+      "ga": 0,
+      "wins": 0,
+      "draws": 2,
+      "losses": 0,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 118,
+      "chips": 118,
+      "wide": 0,
+      "chase_changes": 62
+    },
+    "baselines.scripted_box": {
+      "games": 2,
+      "points": 6,
+      "gf": 22,
+      "ga": 14,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 63,
+      "chips": 66,
+      "wide": 0,
+      "chase_changes": 39
+    }
+  },
+  "p00002": {
+    "baselines.learned": {
+      "games": 2,
+      "points": 4,
+      "gf": 3,
+      "ga": 1,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 49,
+      "chips": 52,
+      "wide": 49,
+      "chase_changes": 89
+    },
+    "baselines.scripted_box": {
+      "games": 2,
+      "points": 0,
+      "gf": 13,
+      "ga": 15,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 23,
+      "chips": 36,
+      "wide": 23,
+      "chase_changes": 21
+    }
+  },
+  "p00003": {
+    "baselines.learned": {
+      "games": 2,
+      "points": 3,
+      "gf": 1,
+      "ga": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 79,
+      "chips": 84,
+      "wide": 17,
+      "chase_changes": 27,
+      "restart_changes": 2
+    },
+    "baselines.scripted_box": {
+      "games": 2,
+      "points": 6,
+      "gf": 20,
+      "ga": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "strikes": 0,
+      "forfeits": 0,
+      "restart_changes": 6,
+      "chips": 47,
+      "wide": 27,
+      "chase_changes": 134,
+      "kick_changes": 32
+    }
+  },
+  "p00004": {
+    "baselines.learned": {
+      "games": 2,
+      "points": 3,
+      "gf": 3,
+      "ga": 4,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "strikes": 0,
+      "forfeits": 0,
+      "kick_changes": 28,
+      "chips": 37,
+      "wide": 4,
+      "restart_changes": 8,
+      "chase_changes": 19
+    },
+    "baselines.scripted_box": {
+      "games": 2,
+      "points": 6,
+      "gf": 22,
+      "ga": 9,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "strikes": 0,
+      "forfeits": 0,
+      "restart_changes": 18,
+      "chips": 30,
+      "wide": 10,
+      "chase_changes": 44,
+      "kick_changes": 7
+    }
+  }
+}

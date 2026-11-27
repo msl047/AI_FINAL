@@ -1,0 +1,50 @@
+{
+  "baselines.learned": {
+    "staff_only": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 405,
+      "learned_goals": 409,
+      "plans_chosen": 5
+    },
+    "with_self_play": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 405,
+      "learned_goals": 405,
+      "plans_chosen": 0
+    }
+  },
+  "baselines.scripted_box": {
+    "staff_only": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 523,
+      "learned_goals": 522,
+      "plans_chosen": 3
+    },
+    "with_self_play": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 523,
+      "learned_goals": 523,
+      "plans_chosen": 0
+    }
+  },
+  "teams.team2_chip": {
+    "staff_only": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 508,
+      "learned_goals": 508,
+      "plans_chosen": 0
+    },
+    "with_self_play": {
+      "positions": 60,
+      "rollouts": 720,
+      "current_goals": 508,
+      "learned_goals": 508,
+      "plans_chosen": 0
+    }
+  }
+}

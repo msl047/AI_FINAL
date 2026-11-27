@@ -1,0 +1,413 @@
+{
+  "controls": {
+    "teamplay": {
+      "games": 12,
+      "points": 30,
+      "wdl": [
+        10,
+        0,
+        2
+      ],
+      "gf": 95,
+      "ga": 26,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.5,
+      "changes": {}
+    },
+    "two_field_box": {
+      "games": 12,
+      "points": 29,
+      "wdl": [
+        9,
+        2,
+        1
+      ],
+      "gf": 130,
+      "ga": 42,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 0.6,
+      "changes": {}
+    },
+    "two_field_fine": {
+      "games": 12,
+      "points": 28,
+      "wdl": [
+        9,
+        1,
+        2
+      ],
+      "gf": 155,
+      "ga": 47,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 0.6,
+      "changes": {}
+    }
+  },
+  "policies": [
+    {
+      "genome": [
+        "current",
+        8,
+        3,
+        2,
+        "current",
+        9,
+        5,
+        2,
+        "screen",
+        5,
+        2,
+        3
+      ],
+      "games": 12,
+      "points": 36,
+      "wdl": [
+        12,
+        0,
+        0
+      ],
+      "gf": 103,
+      "ga": 29,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.1,
+      "changes": {
+        "recovery": 95
+      }
+    },
+    {
+      "genome": [
+        "both_field",
+        6,
+        3,
+        2,
+        "both",
+        8,
+        8,
+        2,
+        "screen",
+        5,
+        2,
+        1
+      ],
+      "games": 12,
+      "points": 33,
+      "wdl": [
+        11,
+        0,
+        1
+      ],
+      "gf": 148,
+      "ga": 46,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.6,
+      "changes": {
+        "pressure": 767,
+        "attack": 4799,
+        "recovery": 18
+      }
+    },
+    {
+      "genome": [
+        "give_go",
+        12,
+        3,
+        2,
+        "current",
+        9,
+        5,
+        2,
+        "current",
+        7,
+        3,
+        1
+      ],
+      "games": 12,
+      "points": 30,
+      "wdl": [
+        10,
+        0,
+        2
+      ],
+      "gf": 95,
+      "ga": 33,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.2,
+      "changes": {
+        "attack": 1101
+      }
+    },
+    {
+      "genome": [
+        "forward",
+        6,
+        2,
+        2,
+        "trap",
+        7,
+        6,
+        1,
+        "screen",
+        9,
+        4,
+        0
+      ],
+      "games": 12,
+      "points": 30,
+      "wdl": [
+        10,
+        0,
+        2
+      ],
+      "gf": 101,
+      "ga": 41,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.4,
+      "changes": {
+        "attack": 1865,
+        "recovery": 596,
+        "pressure": 29
+      }
+    },
+    {
+      "genome": [
+        "both_field",
+        12,
+        3,
+        2,
+        "cut_outlet",
+        8,
+        4,
+        2,
+        "current",
+        7,
+        3,
+        1
+      ],
+      "games": 12,
+      "points": 28,
+      "wdl": [
+        9,
+        1,
+        2
+      ],
+      "gf": 99,
+      "ga": 36,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.2,
+      "changes": {
+        "pressure": 303,
+        "attack": 2501
+      }
+    },
+    {
+      "genome": [
+        "both_field",
+        8,
+        3,
+        2,
+        "current",
+        9,
+        5,
+        2,
+        "current",
+        7,
+        3,
+        1
+      ],
+      "games": 12,
+      "points": 28,
+      "wdl": [
+        9,
+        1,
+        2
+      ],
+      "gf": 104,
+      "ga": 43,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.1,
+      "changes": {
+        "attack": 4109
+      }
+    },
+    {
+      "genome": [
+        "current",
+        8,
+        3,
+        2,
+        "trap",
+        9,
+        3,
+        4,
+        "shot_lanes",
+        10,
+        5,
+        3
+      ],
+      "games": 12,
+      "points": 28,
+      "wdl": [
+        9,
+        1,
+        2
+      ],
+      "gf": 78,
+      "ga": 28,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.6,
+      "changes": {
+        "recovery": 337
+      }
+    },
+    {
+      "genome": [
+        "wide",
+        6,
+        4,
+        2,
+        "cut_outlet",
+        11,
+        4,
+        2,
+        "mark_receiver",
+        10,
+        4,
+        0
+      ],
+      "games": 12,
+      "points": 27,
+      "wdl": [
+        9,
+        0,
+        3
+      ],
+      "gf": 82,
+      "ga": 38,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 2.8,
+      "changes": {
+        "attack": 1679,
+        "recovery": 950,
+        "pressure": 23
+      }
+    },
+    {
+      "genome": [
+        "wide",
+        4,
+        4,
+        3,
+        "current",
+        9,
+        5,
+        2,
+        "current",
+        7,
+        3,
+        1
+      ],
+      "games": 12,
+      "points": 25,
+      "wdl": [
+        8,
+        1,
+        3
+      ],
+      "gf": 98,
+      "ga": 32,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.0,
+      "changes": {
+        "attack": 1821
+      }
+    },
+    {
+      "genome": [
+        "current",
+        8,
+        3,
+        2,
+        "trap",
+        7,
+        6,
+        1,
+        "current",
+        7,
+        3,
+        1
+      ],
+      "games": 12,
+      "points": 25,
+      "wdl": [
+        8,
+        1,
+        3
+      ],
+      "gf": 98,
+      "ga": 42,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 2.6,
+      "changes": {
+        "pressure": 111
+      }
+    },
+    {
+      "genome": [
+        "current",
+        8,
+        3,
+        2,
+        "current",
+        9,
+        5,
+        2,
+        "shot_lanes",
+        10,
+        3,
+        0
+      ],
+      "games": 12,
+      "points": 24,
+      "wdl": [
+        8,
+        0,
+        4
+      ],
+      "gf": 94,
+      "ga": 32,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 2.9,
+      "changes": {
+        "recovery": 1181
+      }
+    }
+  ]
+}

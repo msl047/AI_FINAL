@@ -1,0 +1,853 @@
+[
+  {
+    "genome": [
+      "direct",
+      3,
+      4,
+      1,
+      "nearest",
+      3,
+      1,
+      "current",
+      -1,
+      3,
+      "chip_south",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 30,
+      "wdl": [
+        10,
+        0,
+        2
+      ],
+      "gf": 99,
+      "ga": 42,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.9,
+      "changes": {
+        "kick_changes": 203,
+        "chips": 262,
+        "wide": 114,
+        "chase_changes": 535,
+        "defense": 1842,
+        "passing": 60,
+        "support": 1538,
+        "restart_changes": 42
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "direct",
+          3,
+          4,
+          1,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 73,
+          "ga": 60,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.7,
+          "changes": {
+            "support": 1167,
+            "passing": 16
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "nearest",
+          3,
+          1,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 31,
+          "wdl": [
+            10,
+            1,
+            1
+          ],
+          "gf": 102,
+          "ga": 29,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.5,
+          "changes": {
+            "defense": 1984
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "chip_south",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 18,
+          "wdl": [
+            6,
+            0,
+            6
+          ],
+          "gf": 83,
+          "ga": 70,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.2,
+          "changes": {
+            "kick_changes": 227,
+            "chips": 311,
+            "wide": 162,
+            "chase_changes": 642,
+            "restart_changes": 70
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genome": [
+      "run_only",
+      4,
+      4,
+      3,
+      "nearest",
+      3,
+      1,
+      "territory",
+      -1,
+      3,
+      "shift_south",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 30,
+      "wdl": [
+        10,
+        0,
+        2
+      ],
+      "gf": 90,
+      "ga": 39,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.5,
+      "changes": {
+        "kick_changes": 205,
+        "chips": 268,
+        "wide": 105,
+        "chase_changes": 585,
+        "defense": 2051,
+        "support": 1476,
+        "clearance": 55,
+        "restart_changes": 78
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "run_only",
+          4,
+          4,
+          3,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 82,
+          "ga": 52,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.7,
+          "changes": {
+            "support": 1283
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "nearest",
+          3,
+          1,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 31,
+          "wdl": [
+            10,
+            1,
+            1
+          ],
+          "gf": 102,
+          "ga": 29,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.5,
+          "changes": {
+            "defense": 1984
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "territory",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 81,
+          "ga": 49,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.8,
+          "changes": {
+            "clearance": 21
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "shift_south",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 26,
+          "wdl": [
+            8,
+            2,
+            2
+          ],
+          "gf": 92,
+          "ga": 43,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "kick_changes": 250,
+            "chips": 305,
+            "wide": 142,
+            "chase_changes": 609,
+            "restart_changes": 86
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genome": [
+      "current",
+      3,
+      3,
+      2,
+      "goal_side",
+      4,
+      1,
+      "balanced",
+      2,
+      4,
+      "shift_south",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 26,
+      "wdl": [
+        8,
+        2,
+        2
+      ],
+      "gf": 80,
+      "ga": 56,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.6,
+      "changes": {
+        "kick_changes": 204,
+        "chips": 286,
+        "wide": 114,
+        "chase_changes": 566,
+        "defense": 2061,
+        "restart_changes": 112,
+        "clearance": 31
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "goal_side",
+          4,
+          1,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            3
+          ],
+          "gf": 78,
+          "ga": 40,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "defense": 2177
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "balanced",
+          2,
+          4,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 25,
+          "wdl": [
+            8,
+            1,
+            3
+          ],
+          "gf": 81,
+          "ga": 50,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.9,
+          "changes": {
+            "clearance": 13
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "shift_south",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 26,
+          "wdl": [
+            8,
+            2,
+            2
+          ],
+          "gf": 92,
+          "ga": 43,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "kick_changes": 250,
+            "chips": 305,
+            "wide": 142,
+            "chase_changes": 609,
+            "restart_changes": 86
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genome": [
+      "run_only",
+      4,
+      4,
+      2,
+      "current",
+      2,
+      2,
+      "territory",
+      0,
+      3,
+      "chip_south",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 24,
+      "wdl": [
+        8,
+        0,
+        4
+      ],
+      "gf": 72,
+      "ga": 48,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.4,
+      "changes": {
+        "kick_changes": 226,
+        "chips": 295,
+        "wide": 112,
+        "chase_changes": 530,
+        "restart_changes": 48,
+        "support": 1329,
+        "clearance": 27
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "run_only",
+          4,
+          4,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 82,
+          "ga": 52,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "support": 1283
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "territory",
+          0,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            3
+          ],
+          "gf": 83,
+          "ga": 47,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 4.7,
+          "changes": {
+            "clearance": 19
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "chip_south",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 18,
+          "wdl": [
+            6,
+            0,
+            6
+          ],
+          "gf": 83,
+          "ga": 70,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.2,
+          "changes": {
+            "kick_changes": 227,
+            "chips": 311,
+            "wide": 162,
+            "chase_changes": 642,
+            "restart_changes": 70
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genome": [
+      "direct",
+      3,
+      5,
+      1,
+      "current",
+      2,
+      2,
+      "current",
+      -1,
+      3,
+      "shift_south",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 24,
+      "wdl": [
+        8,
+        0,
+        4
+      ],
+      "gf": 72,
+      "ga": 56,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.0,
+      "changes": {
+        "kick_changes": 184,
+        "chips": 253,
+        "wide": 134,
+        "chase_changes": 504,
+        "restart_changes": 112,
+        "support": 1202,
+        "passing": 16
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "direct",
+          3,
+          5,
+          1,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 73,
+          "ga": 60,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.2,
+          "changes": {
+            "support": 1167,
+            "passing": 16
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "shift_south",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 26,
+          "wdl": [
+            8,
+            2,
+            2
+          ],
+          "gf": 92,
+          "ga": 43,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "kick_changes": 250,
+            "chips": 305,
+            "wide": 142,
+            "chase_changes": 609,
+            "restart_changes": 86
+          }
+        }
+      }
+    ]
+  },
+  {
+    "genome": [
+      "direct",
+      3,
+      5,
+      1,
+      "goal_side",
+      4,
+      1,
+      "current",
+      -1,
+      3,
+      "current",
+      "hold"
+    ],
+    "combined": {
+      "games": 12,
+      "points": 18,
+      "wdl": [
+        6,
+        0,
+        6
+      ],
+      "gf": 92,
+      "ga": 57,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 3.6,
+      "changes": {
+        "defense": 1975,
+        "support": 1301,
+        "passing": 64
+      }
+    },
+    "parts": [
+      {
+        "genome": [
+          "direct",
+          3,
+          5,
+          1,
+          "current",
+          2,
+          2,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 24,
+          "wdl": [
+            8,
+            0,
+            4
+          ],
+          "gf": 73,
+          "ga": 60,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 5.2,
+          "changes": {
+            "support": 1167,
+            "passing": 16
+          }
+        }
+      },
+      {
+        "genome": [
+          "current",
+          3,
+          3,
+          2,
+          "goal_side",
+          4,
+          1,
+          "current",
+          -1,
+          3,
+          "current",
+          "hold"
+        ],
+        "score": {
+          "games": 12,
+          "points": 27,
+          "wdl": [
+            9,
+            0,
+            3
+          ],
+          "gf": 78,
+          "ga": 40,
+          "strikes": 0,
+          "forfeits": 0,
+          "scenario_score": 0.0,
+          "slowest_ms": 3.4,
+          "changes": {
+            "defense": 2177
+          }
+        }
+      }
+    ]
+  }
+]

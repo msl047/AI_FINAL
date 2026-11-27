@@ -1,0 +1,1510 @@
+{
+  "config": {
+    "test": "all",
+    "workers": 6,
+    "seeds": 2,
+    "seed": 807200
+  },
+  "attack": [
+    "wide_south/y_first",
+    "race/y_first",
+    "carry/script",
+    "chip_north"
+  ],
+  "blocks": [
+    {
+      "control": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            3,
+            1,
+            0
+          ],
+          "points": 10,
+          "control_points": 10,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            1,
+            3
+          ],
+          "points": 1,
+          "control_points": 1,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 6,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            2,
+            9
+          ],
+          "points": 41,
+          "control_points": 41,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "outlet": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            2,
+            2,
+            0
+          ],
+          "points": 8,
+          "control_points": 10,
+          "points_gain": -2,
+          "gf_gain": -1,
+          "ga_gain": -1,
+          "opportunities": 89,
+          "changes": 44,
+          "pass_choices": 19,
+          "space_choices": 25,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 1,
+          "ga_gain": -2,
+          "opportunities": 6,
+          "changes": 4,
+          "pass_choices": 3,
+          "space_choices": 1,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 1,
+          "points_gain": -1,
+          "gf_gain": -4,
+          "ga_gain": 0,
+          "opportunities": 12,
+          "changes": 9,
+          "pass_choices": 6,
+          "space_choices": 3,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 6,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            12,
+            2,
+            10
+          ],
+          "points": 38,
+          "control_points": 41,
+          "points_gain": -3,
+          "gf_gain": -4,
+          "ga_gain": -3,
+          "opportunities": 107,
+          "changes": 57,
+          "pass_choices": 28,
+          "space_choices": 29,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "territory": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            3,
+            1,
+            0
+          ],
+          "points": 10,
+          "control_points": 10,
+          "points_gain": 0,
+          "gf_gain": 4,
+          "ga_gain": 0,
+          "opportunities": 56,
+          "changes": 25,
+          "pass_choices": 5,
+          "space_choices": 20,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": -7,
+          "ga_gain": 6,
+          "opportunities": 5,
+          "changes": 5,
+          "pass_choices": 0,
+          "space_choices": 5,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 1,
+          "points_gain": -1,
+          "gf_gain": -8,
+          "ga_gain": 12,
+          "opportunities": 4,
+          "changes": 4,
+          "pass_choices": 0,
+          "space_choices": 4,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 6,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            1,
+            10
+          ],
+          "points": 40,
+          "control_points": 41,
+          "points_gain": -1,
+          "gf_gain": -11,
+          "ga_gain": 18,
+          "opportunities": 65,
+          "changes": 34,
+          "pass_choices": 5,
+          "space_choices": 29,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "angle_scan": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            3,
+            1,
+            0
+          ],
+          "points": 10,
+          "control_points": 10,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 24,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 340,
+          "changes": 1,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 335,
+          "changes": 1,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 84,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            1,
+            3
+          ],
+          "points": 1,
+          "control_points": 1,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 91,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 6,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 203,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            2,
+            9
+          ],
+          "points": 41,
+          "control_points": 41,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 1077,
+          "changes": 2,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 2,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "shot_setup": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            3,
+            1,
+            0
+          ],
+          "points": 10,
+          "control_points": 10,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 24,
+          "changes": 1,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 1,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": -2,
+          "ga_gain": 4,
+          "opportunities": 320,
+          "changes": 19,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 18,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 4,
+          "ga_gain": 1,
+          "opportunities": 325,
+          "changes": 24,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 23,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 84,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            1,
+            3
+          ],
+          "points": 1,
+          "control_points": 1,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 91,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 6,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 203,
+          "changes": 10,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 10,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            2,
+            9
+          ],
+          "points": 41,
+          "control_points": 41,
+          "points_gain": 0,
+          "gf_gain": 2,
+          "ga_gain": 5,
+          "opportunities": 1047,
+          "changes": 54,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 2,
+          "setup_moves": 52,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      }
+    },
+    {
+      "control": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            1,
+            2,
+            1
+          ],
+          "points": 5,
+          "control_points": 5,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            2,
+            9
+          ],
+          "points": 41,
+          "control_points": 41,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "outlet": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            3,
+            0,
+            1
+          ],
+          "points": 9,
+          "control_points": 12,
+          "points_gain": -3,
+          "gf_gain": -2,
+          "ga_gain": 1,
+          "opportunities": 47,
+          "changes": 28,
+          "pass_choices": 11,
+          "space_choices": 17,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 3,
+          "ga_gain": -3,
+          "opportunities": 11,
+          "changes": 9,
+          "pass_choices": 7,
+          "space_choices": 2,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 1,
+          "ga_gain": -1,
+          "opportunities": 4,
+          "changes": 3,
+          "pass_choices": 2,
+          "space_choices": 1,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            1,
+            1,
+            2
+          ],
+          "points": 4,
+          "control_points": 5,
+          "points_gain": -1,
+          "gf_gain": -1,
+          "ga_gain": 3,
+          "opportunities": 2,
+          "changes": 1,
+          "pass_choices": 1,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            12,
+            1,
+            11
+          ],
+          "points": 37,
+          "control_points": 41,
+          "points_gain": -4,
+          "gf_gain": 1,
+          "ga_gain": 0,
+          "opportunities": 64,
+          "changes": 41,
+          "pass_choices": 21,
+          "space_choices": 20,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "territory": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": -7,
+          "ga_gain": 0,
+          "opportunities": 76,
+          "changes": 38,
+          "pass_choices": 9,
+          "space_choices": 29,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 0,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 6,
+          "ga_gain": 1,
+          "opportunities": 5,
+          "changes": 5,
+          "pass_choices": 0,
+          "space_choices": 5,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": -1,
+          "ga_gain": 0,
+          "opportunities": 3,
+          "changes": 3,
+          "pass_choices": 1,
+          "space_choices": 2,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            0,
+            2
+          ],
+          "points": 6,
+          "control_points": 5,
+          "points_gain": 1,
+          "gf_gain": 2,
+          "ga_gain": 3,
+          "opportunities": 2,
+          "changes": 2,
+          "pass_choices": 0,
+          "space_choices": 2,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            14,
+            0,
+            10
+          ],
+          "points": 42,
+          "control_points": 41,
+          "points_gain": 1,
+          "gf_gain": 0,
+          "ga_gain": 4,
+          "opportunities": 86,
+          "changes": 48,
+          "pass_choices": 10,
+          "space_choices": 38,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "angle_scan": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 47,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 274,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 267,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 57,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 58,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            2,
+            1,
+            1
+          ],
+          "points": 7,
+          "control_points": 5,
+          "points_gain": 2,
+          "gf_gain": 5,
+          "ga_gain": -3,
+          "opportunities": 211,
+          "changes": 1,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            14,
+            1,
+            9
+          ],
+          "points": 43,
+          "control_points": 41,
+          "points_gain": 2,
+          "gf_gain": 5,
+          "ga_gain": -3,
+          "opportunities": 914,
+          "changes": 1,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      },
+      "shot_setup": {
+        "baselines.learned": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 47,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "baselines.scripted_box": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 274,
+          "changes": 13,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 13,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "teams.team1": {
+          "games": 4,
+          "wdl": [
+            4,
+            0,
+            0
+          ],
+          "points": 12,
+          "control_points": 12,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 267,
+          "changes": 15,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 15,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_box": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 57,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "two_field_fine": {
+          "games": 4,
+          "wdl": [
+            0,
+            0,
+            4
+          ],
+          "points": 0,
+          "control_points": 0,
+          "points_gain": 0,
+          "gf_gain": 0,
+          "ga_gain": 0,
+          "opportunities": 58,
+          "changes": 0,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 0,
+          "setup_moves": 0,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "p05414": {
+          "games": 4,
+          "wdl": [
+            1,
+            1,
+            2
+          ],
+          "points": 4,
+          "control_points": 5,
+          "points_gain": -1,
+          "gf_gain": 3,
+          "ga_gain": -1,
+          "opportunities": 204,
+          "changes": 22,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 21,
+          "strikes": 0,
+          "forfeits": 0
+        },
+        "overall": {
+          "games": 24,
+          "wdl": [
+            13,
+            1,
+            10
+          ],
+          "points": 40,
+          "control_points": 41,
+          "points_gain": -1,
+          "gf_gain": 3,
+          "ga_gain": -1,
+          "opportunities": 907,
+          "changes": 50,
+          "pass_choices": 0,
+          "space_choices": 0,
+          "extra_shots": 1,
+          "setup_moves": 49,
+          "strikes": 0,
+          "forfeits": 0
+        }
+      }
+    }
+  ]
+}

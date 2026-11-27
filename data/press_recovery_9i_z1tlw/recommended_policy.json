@@ -1,0 +1,35 @@
+{
+  "genome": [
+    "both_field",
+    8,
+    3,
+    2,
+    "cut_outlet",
+    7,
+    8,
+    2,
+    "screen",
+    5,
+    2,
+    1
+  ],
+  "tactics": {
+    "attack": "both_field",
+    "attack_x": 8,
+    "support_distance": 3,
+    "safety_gap": 2,
+    "press": "cut_outlet",
+    "press_x": 7,
+    "press_reach": 8,
+    "wall_distance": 2,
+    "recover": "screen",
+    "danger_x": 5,
+    "cover_x": 2,
+    "handoff_bias": 1
+  },
+  "point_gain": {
+    "teamplay": 316,
+    "two_field_box": 24,
+    "two_field_fine": 30
+  }
+}

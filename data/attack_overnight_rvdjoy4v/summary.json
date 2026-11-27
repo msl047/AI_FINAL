@@ -1,0 +1,309 @@
+{
+  "smoke_test": false,
+  "complete": true,
+  "positions_per_arm": 15936,
+  "test_games_per_block": 40,
+  "recommended": null,
+  "position_test": {
+    "baselines.learned": {
+      "staff_only": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 405,
+        "learned_goals": 409,
+        "plans_chosen": 5
+      },
+      "with_self_play": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 405,
+        "learned_goals": 405,
+        "plans_chosen": 0
+      }
+    },
+    "baselines.scripted_box": {
+      "staff_only": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 523,
+        "learned_goals": 522,
+        "plans_chosen": 3
+      },
+      "with_self_play": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 523,
+        "learned_goals": 523,
+        "plans_chosen": 0
+      }
+    },
+    "teams.team2_chip": {
+      "staff_only": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 508,
+        "learned_goals": 508,
+        "plans_chosen": 0
+      },
+      "with_self_play": {
+        "positions": 60,
+        "rollouts": 720,
+        "current_goals": 508,
+        "learned_goals": 508,
+        "plans_chosen": 0
+      }
+    }
+  },
+  "match_blocks": [
+    {
+      "current": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 90,
+          "wins": 27,
+          "draws": 9,
+          "losses": 4,
+          "gf": 59,
+          "ga": 22,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 109,
+          "wins": 36,
+          "draws": 1,
+          "losses": 3,
+          "gf": 409,
+          "ga": 232,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 58,
+          "wins": 18,
+          "draws": 4,
+          "losses": 18,
+          "gf": 340,
+          "ga": 340,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        }
+      },
+      "staff_only": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 88,
+          "wins": 26,
+          "draws": 10,
+          "losses": 4,
+          "gf": 58,
+          "ga": 21,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 10,
+          "changed_moves": 6
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 109,
+          "wins": 36,
+          "draws": 1,
+          "losses": 3,
+          "gf": 409,
+          "ga": 232,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 38,
+          "changed_moves": 3
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 61,
+          "wins": 19,
+          "draws": 4,
+          "losses": 17,
+          "gf": 343,
+          "ga": 336,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 24,
+          "changed_moves": 2
+        }
+      },
+      "with_self_play": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 90,
+          "wins": 27,
+          "draws": 9,
+          "losses": 4,
+          "gf": 59,
+          "ga": 22,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 9,
+          "changed_moves": 5
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 109,
+          "wins": 36,
+          "draws": 1,
+          "losses": 3,
+          "gf": 409,
+          "ga": 232,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 58,
+          "wins": 18,
+          "draws": 4,
+          "losses": 18,
+          "gf": 340,
+          "ga": 340,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        }
+      }
+    },
+    {
+      "current": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 75,
+          "wins": 20,
+          "draws": 15,
+          "losses": 5,
+          "gf": 54,
+          "ga": 24,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 99,
+          "wins": 31,
+          "draws": 6,
+          "losses": 3,
+          "gf": 401,
+          "ga": 252,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 59,
+          "wins": 19,
+          "draws": 2,
+          "losses": 19,
+          "gf": 352,
+          "ga": 352,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        }
+      },
+      "staff_only": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 75,
+          "wins": 20,
+          "draws": 15,
+          "losses": 5,
+          "gf": 54,
+          "ga": 24,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 6,
+          "changed_moves": 2
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 99,
+          "wins": 31,
+          "draws": 6,
+          "losses": 3,
+          "gf": 401,
+          "ga": 248,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 34,
+          "changed_moves": 7
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 59,
+          "wins": 19,
+          "draws": 2,
+          "losses": 19,
+          "gf": 352,
+          "ga": 350,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 31,
+          "changed_moves": 5
+        }
+      },
+      "with_self_play": {
+        "baselines.learned": {
+          "games": 40,
+          "points": 75,
+          "wins": 20,
+          "draws": 15,
+          "losses": 5,
+          "gf": 54,
+          "ga": 24,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 4,
+          "changed_moves": 1
+        },
+        "baselines.scripted_box": {
+          "games": 40,
+          "points": 99,
+          "wins": 31,
+          "draws": 6,
+          "losses": 3,
+          "gf": 401,
+          "ga": 252,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 0,
+          "changed_moves": 0
+        },
+        "teams.team2_chip": {
+          "games": 40,
+          "points": 59,
+          "wins": 19,
+          "draws": 2,
+          "losses": 19,
+          "gf": 352,
+          "ga": 352,
+          "strikes": 0,
+          "forfeit": 0,
+          "plans": 1,
+          "changed_moves": 1
+        }
+      }
+    }
+  ]
+}

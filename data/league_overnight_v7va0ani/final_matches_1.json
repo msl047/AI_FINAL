@@ -1,0 +1,1871 @@
+[
+  {
+    "policy": "box",
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 15,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 19,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 20,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 6,
+        "ga": 13,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 13,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 4,
+        "ga": 12,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 14,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 9,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 13,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 15,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 13,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 15,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 8,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 9,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      }
+    ]
+  },
+  {
+    "policy": "fine",
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 13,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 20,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 21,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.9,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 13,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 14,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 12,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 8,
+        "ga": 8,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 8,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 8,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 7,
+        "ga": 7,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 14,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 14,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 6,
+        "ga": 10,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 9,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 0.3,
+        "changes": {}
+      }
+    ]
+  },
+  {
+    "policy": "teamplay",
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.9,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.2,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 3,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.1,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 1,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 2,
+        "ga": 6,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 6,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 7,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.9,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.1,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 3,
+        "ga": 13,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 7,
+        "ga": 10,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 3,
+        "ga": 5,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 13,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 15,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 13,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 15,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.1,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 5,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 11,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      }
+    ]
+  },
+  {
+    "policy": "press",
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 12,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.8,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 16,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 2,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 12,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 7,
+        "ga": 8,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.2,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 5,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 6,
+        "ga": 8,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 9,
+        "ga": 10,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 7,
+        "ga": 7,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 9,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.0,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 4,
+        "ga": 10,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.1,
+        "changes": {}
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.1,
+        "changes": {}
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 13,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.7,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.6,
+        "changes": {}
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 13,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.4,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {}
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.8,
+        "changes": {}
+      }
+    ]
+  },
+  {
+    "policy": [
+      "press",
+      "race",
+      3,
+      5,
+      "base",
+      8,
+      2,
+      "space",
+      8,
+      0
+    ],
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 24,
+          "loose": 4
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 17,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.6,
+        "changes": {
+          "counter": 19,
+          "loose": 4
+        }
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 7,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.2,
+        "changes": {
+          "counter": 8,
+          "loose": 1
+        }
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 11,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.1,
+        "changes": {
+          "counter": 23,
+          "loose": 3
+        }
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 5,
+        "ga": 8,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.8,
+        "changes": {
+          "loose": 6,
+          "counter": 14
+        }
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 5,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 27,
+          "loose": 17
+        }
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 12,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.9,
+        "changes": {
+          "counter": 16,
+          "loose": 3
+        }
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 9,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.0,
+        "changes": {
+          "counter": 13,
+          "loose": 1
+        }
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {
+          "counter": 18,
+          "loose": 3
+        }
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 9,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.3,
+        "changes": {
+          "counter": 17,
+          "loose": 3
+        }
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 5,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 21,
+          "loose": 15
+        }
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 6,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.4,
+        "changes": {
+          "counter": 21,
+          "loose": 11
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.4,
+        "changes": {
+          "counter": 20,
+          "loose": 5
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 12,
+        "ga": 5,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 22
+        }
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 11,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 20,
+          "loose": 5
+        }
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 12,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {
+          "counter": 23,
+          "loose": 1
+        }
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 13,
+          "loose": 4
+        }
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 14,
+        "ga": 9,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "counter": 19,
+          "loose": 3
+        }
+      }
+    ]
+  },
+  {
+    "policy": [
+      "press",
+      "race",
+      6,
+      1,
+      "base",
+      8,
+      2,
+      "base",
+      4,
+      1
+    ],
+    "matches": [
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 14,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.4,
+        "changes": {
+          "loose": 11
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 11,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.4,
+        "changes": {
+          "loose": 11
+        }
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 5,
+        "ga": 0,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.5,
+        "changes": {
+          "loose": 31
+        }
+      },
+      {
+        "case": [
+          "baselines.learned",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 4,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.7,
+        "changes": {
+          "loose": 45
+        }
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 4,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.0,
+        "changes": {
+          "loose": 27
+        }
+      },
+      {
+        "case": [
+          "teamplay",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 2,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.1,
+        "changes": {
+          "loose": 34
+        }
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 8,
+        "ga": 12,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.7,
+        "changes": {
+          "loose": 11
+        }
+      },
+      {
+        "case": [
+          "box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "loose": 10
+        }
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 10,
+        "ga": 11,
+        "points": 0,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.1,
+        "changes": {
+          "loose": 5
+        }
+      },
+      {
+        "case": [
+          "fine",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 8,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.0,
+        "changes": {
+          "loose": 3
+        }
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 9,
+        "ga": 8,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.0,
+        "changes": {
+          "loose": 21
+        }
+      },
+      {
+        "case": [
+          "press",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 10,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "loose": 12
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 16,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 4.7,
+        "changes": {
+          "loose": 6
+        }
+      },
+      {
+        "case": [
+          "baselines.scripted_box",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 16,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "loose": 5
+        }
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 16,
+        "ga": 1,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 2.3,
+        "changes": {
+          "loose": 6
+        }
+      },
+      {
+        "case": [
+          "teams.team1",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 16,
+        "ga": 3,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.8,
+        "changes": {
+          "loose": 5
+        }
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          false,
+          null
+        ],
+        "gf": 8,
+        "ga": 8,
+        "points": 1,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 3.2,
+        "changes": {
+          "loose": 7
+        }
+      },
+      {
+        "case": [
+          "wide_two_field",
+          12970113,
+          true,
+          null
+        ],
+        "gf": 10,
+        "ga": 7,
+        "points": 3,
+        "scenario_score": 0.0,
+        "strikes": 0,
+        "forfeit": null,
+        "slowest_ms": 1.7,
+        "changes": {
+          "loose": 6
+        }
+      }
+    ]
+  }
+]

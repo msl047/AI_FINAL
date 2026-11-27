@@ -1,0 +1,46 @@
+{
+  "genome": [
+    "press",
+    "race",
+    5,
+    5,
+    "next_receiver",
+    6,
+    0,
+    "space",
+    6,
+    0
+  ],
+  "press_genome": [
+    "both_field",
+    8,
+    3,
+    2,
+    "cut_outlet",
+    7,
+    8,
+    2,
+    "screen",
+    5,
+    2,
+    1
+  ],
+  "tactics": {
+    "base": "press",
+    "loose": "race",
+    "race_limit": 5,
+    "cover_depth": 5,
+    "defense": "next_receiver",
+    "danger_x": 6,
+    "handoff": 0,
+    "counter": "space",
+    "counter_window": 6,
+    "counter_margin": 0
+  },
+  "point_gain": {
+    "box": 682,
+    "fine": 651,
+    "teamplay": 962,
+    "press": 621
+  }
+}

@@ -1,0 +1,1558 @@
+{
+  "controls": {
+    "box": {
+      "games": 96,
+      "points": 207,
+      "wdl": [
+        68,
+        3,
+        25
+      ],
+      "gf": 1065,
+      "ga": 567,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.8,
+      "changes": {}
+    },
+    "fine": {
+      "games": 96,
+      "points": 192,
+      "wdl": [
+        63,
+        3,
+        30
+      ],
+      "gf": 1073,
+      "ga": 578,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 7.3,
+      "changes": {}
+    },
+    "teamplay": {
+      "games": 96,
+      "points": 166,
+      "wdl": [
+        53,
+        7,
+        36
+      ],
+      "gf": 628,
+      "ga": 447,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 13.3,
+      "changes": {}
+    },
+    "press": {
+      "games": 96,
+      "points": 191,
+      "wdl": [
+        62,
+        5,
+        29
+      ],
+      "gf": 839,
+      "ga": 526,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 16.5,
+      "changes": {}
+    }
+  },
+  "candidates": [
+    {
+      "genome": [
+        "box",
+        "base",
+        6,
+        4,
+        "base",
+        8,
+        2,
+        "space",
+        2,
+        0
+      ],
+      "games": 96,
+      "points": 258,
+      "wdl": [
+        85,
+        3,
+        8
+      ],
+      "gf": 1132,
+      "ga": 441,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.8,
+      "changes": {
+        "counter": 1560
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "race",
+        5,
+        5,
+        "next_receiver",
+        6,
+        0,
+        "space",
+        6,
+        0
+      ],
+      "games": 96,
+      "points": 257,
+      "wdl": [
+        85,
+        2,
+        9
+      ],
+      "gf": 977,
+      "ga": 392,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 15.1,
+      "changes": {
+        "defense": 196,
+        "counter": 1785,
+        "loose": 1269
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "race",
+        5,
+        3,
+        "base",
+        8,
+        2,
+        "space",
+        2,
+        0
+      ],
+      "games": 96,
+      "points": 256,
+      "wdl": [
+        84,
+        4,
+        8
+      ],
+      "gf": 989,
+      "ga": 393,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 12.6,
+      "changes": {
+        "counter": 1461,
+        "loose": 1437
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "intercept",
+        5,
+        3,
+        "screen",
+        7,
+        1,
+        "space",
+        6,
+        0
+      ],
+      "games": 96,
+      "points": 254,
+      "wdl": [
+        83,
+        5,
+        8
+      ],
+      "gf": 981,
+      "ga": 392,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 14.5,
+      "changes": {
+        "counter": 1751,
+        "loose": 1467,
+        "defense": 923
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "intercept",
+        5,
+        3,
+        "base",
+        8,
+        2,
+        "space",
+        6,
+        1
+      ],
+      "games": 96,
+      "points": 254,
+      "wdl": [
+        83,
+        5,
+        8
+      ],
+      "gf": 914,
+      "ga": 414,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 13.6,
+      "changes": {
+        "counter": 1263,
+        "loose": 1850
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "race",
+        4,
+        6,
+        "next_dribble",
+        7,
+        4,
+        "space",
+        6,
+        0
+      ],
+      "games": 96,
+      "points": 253,
+      "wdl": [
+        83,
+        4,
+        9
+      ],
+      "gf": 1148,
+      "ga": 441,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.3,
+      "changes": {
+        "counter": 1944,
+        "loose": 1176,
+        "defense": 1510
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "intercept",
+        6,
+        6,
+        "base",
+        8,
+        2,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 253,
+      "wdl": [
+        83,
+        4,
+        9
+      ],
+      "gf": 1075,
+      "ga": 415,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.1,
+      "changes": {
+        "counter": 2197,
+        "loose": 1380
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "base",
+        6,
+        6,
+        "next_receiver",
+        7,
+        4,
+        "space",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 250,
+      "wdl": [
+        82,
+        4,
+        10
+      ],
+      "gf": 1056,
+      "ga": 486,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.7,
+      "changes": {
+        "counter": 1254,
+        "defense": 1620
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "race",
+        6,
+        6,
+        "screen",
+        6,
+        1,
+        "space",
+        2,
+        0
+      ],
+      "games": 96,
+      "points": 248,
+      "wdl": [
+        81,
+        5,
+        10
+      ],
+      "gf": 1057,
+      "ga": 416,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.6,
+      "changes": {
+        "counter": 1495,
+        "loose": 1436,
+        "defense": 740
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        8,
+        2,
+        "base",
+        8,
+        2,
+        "space",
+        6,
+        0
+      ],
+      "games": 96,
+      "points": 248,
+      "wdl": [
+        80,
+        8,
+        8
+      ],
+      "gf": 1028,
+      "ga": 439,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 8.0,
+      "changes": {
+        "counter": 1830,
+        "loose": 1903
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "race",
+        5,
+        2,
+        "base",
+        8,
+        2,
+        "space",
+        4,
+        0
+      ],
+      "games": 96,
+      "points": 244,
+      "wdl": [
+        80,
+        4,
+        12
+      ],
+      "gf": 1127,
+      "ga": 457,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.4,
+      "changes": {
+        "counter": 1710,
+        "loose": 1965
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "intercept",
+        6,
+        3,
+        "base",
+        8,
+        2,
+        "space",
+        4,
+        0
+      ],
+      "games": 96,
+      "points": 243,
+      "wdl": [
+        79,
+        6,
+        11
+      ],
+      "gf": 1035,
+      "ga": 380,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 20.1,
+      "changes": {
+        "counter": 1646,
+        "loose": 1580
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        6,
+        5,
+        "next_dribble",
+        8,
+        2,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 243,
+      "wdl": [
+        79,
+        6,
+        11
+      ],
+      "gf": 1019,
+      "ga": 409,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 8.0,
+      "changes": {
+        "defense": 2586,
+        "counter": 2063,
+        "loose": 1413
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "intercept",
+        6,
+        4,
+        "base",
+        8,
+        2,
+        "space",
+        3,
+        0
+      ],
+      "games": 96,
+      "points": 243,
+      "wdl": [
+        79,
+        6,
+        11
+      ],
+      "gf": 1016,
+      "ga": 425,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 12.4,
+      "changes": {
+        "counter": 1483,
+        "loose": 1168
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        1,
+        "next_dribble",
+        7,
+        1,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 243,
+      "wdl": [
+        79,
+        6,
+        11
+      ],
+      "gf": 938,
+      "ga": 395,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 13.0,
+      "changes": {
+        "counter": 1903,
+        "defense": 802
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "base",
+        6,
+        2,
+        "screen",
+        8,
+        4,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 241,
+      "wdl": [
+        78,
+        7,
+        11
+      ],
+      "gf": 1065,
+      "ga": 433,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.5,
+      "changes": {
+        "counter": 2145,
+        "defense": 3013
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        6,
+        6,
+        "screen",
+        8,
+        1,
+        "space",
+        2,
+        0
+      ],
+      "games": 96,
+      "points": 240,
+      "wdl": [
+        79,
+        3,
+        14
+      ],
+      "gf": 988,
+      "ga": 420,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.1,
+      "changes": {
+        "counter": 1486,
+        "loose": 1402,
+        "defense": 2362
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "race",
+        4,
+        3,
+        "next_dribble",
+        7,
+        2,
+        "space",
+        3,
+        0
+      ],
+      "games": 96,
+      "points": 239,
+      "wdl": [
+        77,
+        8,
+        11
+      ],
+      "gf": 1037,
+      "ga": 456,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.5,
+      "changes": {
+        "counter": 1565,
+        "defense": 1647,
+        "loose": 1581
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        4,
+        "base",
+        8,
+        2,
+        "space",
+        4,
+        0
+      ],
+      "games": 96,
+      "points": 237,
+      "wdl": [
+        77,
+        6,
+        13
+      ],
+      "gf": 948,
+      "ga": 409,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 14.4,
+      "changes": {
+        "counter": 1610
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        2,
+        "screen",
+        8,
+        0,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 236,
+      "wdl": [
+        76,
+        8,
+        12
+      ],
+      "gf": 937,
+      "ga": 419,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 16.5,
+      "changes": {
+        "counter": 1912,
+        "defense": 1628
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "race",
+        5,
+        4,
+        "next_receiver",
+        6,
+        4,
+        "space",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 235,
+      "wdl": [
+        75,
+        10,
+        11
+      ],
+      "gf": 1138,
+      "ga": 479,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.3,
+      "changes": {
+        "counter": 1386,
+        "loose": 1515,
+        "defense": 999
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "intercept",
+        4,
+        3,
+        "screen",
+        7,
+        1,
+        "space",
+        6,
+        0
+      ],
+      "games": 96,
+      "points": 232,
+      "wdl": [
+        75,
+        7,
+        14
+      ],
+      "gf": 1091,
+      "ga": 429,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.4,
+      "changes": {
+        "counter": 1958,
+        "defense": 1618,
+        "loose": 1498
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        3,
+        3,
+        "next_receiver",
+        8,
+        2,
+        "space",
+        8,
+        0
+      ],
+      "games": 96,
+      "points": 232,
+      "wdl": [
+        75,
+        7,
+        14
+      ],
+      "gf": 952,
+      "ga": 435,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.9,
+      "changes": {
+        "counter": 1942,
+        "defense": 2821,
+        "loose": 1186
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "race",
+        8,
+        6,
+        "next_receiver",
+        6,
+        0,
+        "space",
+        8,
+        1
+      ],
+      "games": 96,
+      "points": 230,
+      "wdl": [
+        75,
+        5,
+        16
+      ],
+      "gf": 1016,
+      "ga": 440,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.2,
+      "changes": {
+        "counter": 1672,
+        "loose": 1389,
+        "defense": 824
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        6,
+        1,
+        "base",
+        8,
+        2,
+        "space",
+        6,
+        2
+      ],
+      "games": 96,
+      "points": 230,
+      "wdl": [
+        76,
+        2,
+        18
+      ],
+      "gf": 1031,
+      "ga": 486,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 7.3,
+      "changes": {
+        "counter": 1052,
+        "loose": 1637
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "base",
+        6,
+        4,
+        "base",
+        8,
+        2,
+        "space",
+        2,
+        1
+      ],
+      "games": 96,
+      "points": 224,
+      "wdl": [
+        73,
+        5,
+        18
+      ],
+      "gf": 1116,
+      "ga": 511,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.0,
+      "changes": {
+        "counter": 1135
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        5,
+        "next_dribble",
+        7,
+        4,
+        "space",
+        6,
+        1
+      ],
+      "games": 96,
+      "points": 224,
+      "wdl": [
+        72,
+        8,
+        16
+      ],
+      "gf": 887,
+      "ga": 456,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 15.1,
+      "changes": {
+        "counter": 1273,
+        "defense": 846
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        2,
+        "next_receiver",
+        7,
+        4,
+        "space",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 220,
+      "wdl": [
+        71,
+        7,
+        18
+      ],
+      "gf": 885,
+      "ga": 477,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 16.8,
+      "changes": {
+        "counter": 1091,
+        "defense": 1129
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "intercept",
+        8,
+        3,
+        "base",
+        8,
+        2,
+        "space",
+        4,
+        2
+      ],
+      "games": 96,
+      "points": 219,
+      "wdl": [
+        71,
+        6,
+        19
+      ],
+      "gf": 1080,
+      "ga": 531,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.3,
+      "changes": {
+        "counter": 911,
+        "loose": 1539
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "base",
+        6,
+        4,
+        "next_receiver",
+        8,
+        3,
+        "space",
+        2,
+        1
+      ],
+      "games": 96,
+      "points": 218,
+      "wdl": [
+        70,
+        8,
+        18
+      ],
+      "gf": 1102,
+      "ga": 504,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.7,
+      "changes": {
+        "counter": 1112,
+        "defense": 3320
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "race",
+        4,
+        5,
+        "next_dribble",
+        6,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 213,
+      "wdl": [
+        70,
+        3,
+        23
+      ],
+      "gf": 899,
+      "ga": 515,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 16.9,
+      "changes": {
+        "defense": 380,
+        "loose": 1034
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "base",
+        6,
+        4,
+        "screen",
+        10,
+        3,
+        "space",
+        3,
+        0
+      ],
+      "games": 96,
+      "points": 211,
+      "wdl": [
+        68,
+        7,
+        21
+      ],
+      "gf": 963,
+      "ga": 466,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.7,
+      "changes": {
+        "counter": 1454,
+        "defense": 7631
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "base",
+        6,
+        4,
+        "next_receiver",
+        7,
+        0,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 197,
+      "wdl": [
+        63,
+        8,
+        25
+      ],
+      "gf": 920,
+      "ga": 515,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 13.5,
+      "changes": {
+        "defense": 775
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "intercept",
+        5,
+        5,
+        "base",
+        8,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 195,
+      "wdl": [
+        63,
+        6,
+        27
+      ],
+      "gf": 1029,
+      "ga": 558,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.5,
+      "changes": {
+        "loose": 1259
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "intercept",
+        8,
+        3,
+        "base",
+        8,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 192,
+      "wdl": [
+        62,
+        6,
+        28
+      ],
+      "gf": 1027,
+      "ga": 566,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.4,
+      "changes": {
+        "loose": 1581
+      }
+    },
+    {
+      "genome": [
+        "press",
+        "race",
+        8,
+        3,
+        "base",
+        8,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 189,
+      "wdl": [
+        61,
+        6,
+        29
+      ],
+      "gf": 801,
+      "ga": 526,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 11.8,
+      "changes": {
+        "loose": 1657
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "base",
+        6,
+        3,
+        "next_receiver",
+        7,
+        4,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 187,
+      "wdl": [
+        61,
+        4,
+        31
+      ],
+      "gf": 1028,
+      "ga": 563,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.1,
+      "changes": {
+        "defense": 2082
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "base",
+        6,
+        5,
+        "screen",
+        8,
+        4,
+        "give_go",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 183,
+      "wdl": [
+        58,
+        9,
+        29
+      ],
+      "gf": 1003,
+      "ga": 575,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.4,
+      "changes": {
+        "counter": 2480,
+        "defense": 3594
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "base",
+        6,
+        5,
+        "next_dribble",
+        9,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 183,
+      "wdl": [
+        60,
+        3,
+        33
+      ],
+      "gf": 989,
+      "ga": 581,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 5.8,
+      "changes": {
+        "defense": 5793
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "intercept",
+        6,
+        6,
+        "next_dribble",
+        6,
+        1,
+        "space",
+        3,
+        1
+      ],
+      "games": 96,
+      "points": 181,
+      "wdl": [
+        56,
+        13,
+        27
+      ],
+      "gf": 588,
+      "ga": 427,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 16.6,
+      "changes": {
+        "loose": 4786,
+        "counter": 423,
+        "defense": 828
+      }
+    },
+    {
+      "genome": [
+        "box",
+        "race",
+        6,
+        6,
+        "screen",
+        6,
+        3,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 180,
+      "wdl": [
+        58,
+        6,
+        32
+      ],
+      "gf": 1021,
+      "ga": 566,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 6.5,
+      "changes": {
+        "loose": 1374,
+        "defense": 1125
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "intercept",
+        6,
+        6,
+        "base",
+        8,
+        2,
+        "space",
+        3,
+        1
+      ],
+      "games": 96,
+      "points": 179,
+      "wdl": [
+        57,
+        8,
+        31
+      ],
+      "gf": 614,
+      "ga": 425,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 12.7,
+      "changes": {
+        "loose": 4531,
+        "counter": 467
+      }
+    },
+    {
+      "genome": [
+        "fine",
+        "race",
+        6,
+        6,
+        "screen",
+        6,
+        3,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 177,
+      "wdl": [
+        57,
+        6,
+        33
+      ],
+      "gf": 1025,
+      "ga": 565,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 4.2,
+      "changes": {
+        "loose": 1510,
+        "defense": 1015
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "base",
+        6,
+        2,
+        "screen",
+        6,
+        0,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 173,
+      "wdl": [
+        56,
+        5,
+        35
+      ],
+      "gf": 661,
+      "ga": 461,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 11.7,
+      "changes": {
+        "defense": 998
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "race",
+        8,
+        4,
+        "next_receiver",
+        6,
+        1,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 159,
+      "wdl": [
+        50,
+        9,
+        37
+      ],
+      "gf": 579,
+      "ga": 432,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 12.9,
+      "changes": {
+        "loose": 6508,
+        "defense": 792
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "base",
+        6,
+        4,
+        "base",
+        8,
+        2,
+        "give_go",
+        6,
+        2
+      ],
+      "games": 96,
+      "points": 158,
+      "wdl": [
+        52,
+        2,
+        42
+      ],
+      "gf": 603,
+      "ga": 459,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 12.3,
+      "changes": {
+        "counter": 4666
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "race",
+        5,
+        1,
+        "base",
+        8,
+        2,
+        "base",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 150,
+      "wdl": [
+        49,
+        3,
+        44
+      ],
+      "gf": 561,
+      "ga": 487,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 10.7,
+      "changes": {
+        "loose": 5587
+      }
+    },
+    {
+      "genome": [
+        "teamplay",
+        "base",
+        6,
+        2,
+        "screen",
+        6,
+        0,
+        "give_go",
+        4,
+        1
+      ],
+      "games": 96,
+      "points": 143,
+      "wdl": [
+        45,
+        8,
+        43
+      ],
+      "gf": 596,
+      "ga": 494,
+      "strikes": 0,
+      "forfeits": 0,
+      "scenario_score": 0.0,
+      "slowest_ms": 10.7,
+      "changes": {
+        "counter": 4686,
+        "defense": 925
+      }
+    }
+  ]
+}
